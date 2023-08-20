@@ -1,4 +1,4 @@
-![img|320x2711](https://www.molic-avci.com.br/static/images/EngageNOW.png)
+![img|50%](https://www.molic-avci.com.br/static/images/EngageNOW.png)
 # Care-mAHP project
 
 ## Framework
