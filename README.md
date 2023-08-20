@@ -1,5 +1,5 @@
-<img src="https://www.molic-avci.com.br/static/images/EngageNOW.png" width="50%">
-![img|320x271,50%](https://www.molic-avci.com.br/static/images/EngageNOW.png)
+<center><img src="https://www.molic-avci.com.br/static/images/EngageNOW.png" width="50%"></center>
+
 # Care-mAHP project
 
 ## Framework
