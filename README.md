@@ -1,4 +1,4 @@
-<img src="(https://www.molic-avci.com.br/static/images/EngageNOW.png)" width="100" height="100">
+<img src="https://www.molic-avci.com.br/static/images/EngageNOW.png" width="100" height="100">
 ![img|320x271,50%](https://www.molic-avci.com.br/static/images/EngageNOW.png)
 # Care-mAHP project
 
