@@ -22,4 +22,4 @@ To use this library, please use the follow reference:
 
 `Riz, Gustavo, ENG4PY: Library to support the patient engagement analysis based on AHP, GitHub. (n.d.). https://github.com/HAILab-PUCPR/ENG4PY`
 
-[![mit](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
