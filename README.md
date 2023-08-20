@@ -17,7 +17,7 @@
 | pyAHPeng() | Main function to use to calculate the AHP model |
 
 ## How to use
-`You need to use the "Eng4py" library and call the main function "pyAHPeng()"`
+You need to use the `Eng4py` library and call the main function `pyAHPeng()`
 ## License and referencing
 
 To use this library, please use the follow reference: 
