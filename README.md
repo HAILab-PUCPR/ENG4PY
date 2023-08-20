@@ -1,7 +1,8 @@
 
 ## Care-mAHP project
 
-`Library to support the patient engagement analysis based on AHP`
+`Care-mAHP: Framework developed to patient engagement analysis, based on PM4PY and Eng4Py libraries`
+`Eng4Py: Library to support the patient engagement analysis based on AHP`
 #### `Demo:` www.molic-avci.com.br
 
 ## Authors
