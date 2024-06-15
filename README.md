@@ -1,6 +1,6 @@
 # Care-mAHP project
 
-<center><img src="https://github.com/HAILab-PUCPR/ENG4PY/blob/12aa326c29492289dc94fd84fad2502b286dc058/care-mahp.png" width=70%"></center>
+<center><img src="https://github.com/HAILab-PUCPR/ENG4PY/blob/12aa326c29492289dc94fd84fad2502b286dc058/care-mahp.png" width=90%"></center>
 
 ## Framework
 `Care-mAHP`: Framework developed for patient engagement analysis, based on PM4PY and Eng4Py libraries
