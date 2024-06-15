@@ -1,6 +1,6 @@
 # Care-mAHP project
 
-<center><img src="https://www.molic-avci.com.br/static/images/EngageNOW.png" width=70%"></center>
+<center><img src="" width=70%"></center>
 
 ## Framework
 `Care-mAHP`: Framework developed for patient engagement analysis, based on PM4PY and Eng4Py libraries
